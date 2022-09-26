@@ -1,10 +1,11 @@
 package ki_35.berehovskyi.lab3;
 import java.io.*;
 
+
 /**
  * 
  * @author Ihor Berehovskyi
- *
+ * 
  */
 
 public class LampApp {
